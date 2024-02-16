@@ -10,20 +10,27 @@ cd vite-boilerplate
 ```
 
 2. Instalacja
+
 ```bash
 npm install
 ```
 
 3. Uruchom lokalny serwer deweloperski:
+
 ```bash
 npm run dev
 ```
 
+Odpal localhost [http://localhost:5173/](http://localhost:5173/)
+
 ## Build
+
 Aby zbudować projekt do produkcji, wykonaj poniższą komendę:
+
 ```bash
 npm run build
 ```
+
 Wynikiem będzie gotowy do wdrożenia folder 'dist'.
 
 # Dodawanie nowych styli Tailwind CSS
@@ -39,6 +46,7 @@ Edytuj plik `src/styles/index.css` aby dodać niestandardowe style Tailwind. Prz
 
 /* Dodaj niestandardowe style poniżej */
 ```
+
 # Zasoby
 
 - [Vite Documentation](https://vitejs.dev/)
